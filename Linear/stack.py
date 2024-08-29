@@ -41,6 +41,7 @@ if __name__=="__main__":
     stack.push(2)
     stack.push(3)
     stack.pop()
+    # [1, 2]
     print(stack.display())
 
 
